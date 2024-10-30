@@ -8,6 +8,8 @@ with cocktails by adding new ingredients,
 selecting drinks with alcohol or deleting
 and editing saved ones. Api uses mySql and
 phpmyadmin from `docker-compose.yml`.
+For more accurate documentation check
+`http://localhost:8080/api/swagger-ui/index.html`.
 
 ## Features
 
@@ -23,6 +25,7 @@ phpmyadmin from `docker-compose.yml`.
 - **Dependency Management**: Maven
 - **Object Mapping**: Mapstruct
 - **Lombok**: To reduce boilerplate code
+- -**swagger-ui**: Simple documentation
 
 ### Models
 
